@@ -1,0 +1,40 @@
+html {
+    font-family: Verdana, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    line-height: 1.1;
+}
+img, picture, video, canvas, svg {
+    max-inline-size: 100%;
+}
+input, button, textarea, select {
+    font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+p {
+    text-wrap: pretty;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-wrap: balance;
+}
+img {
+    width: 100px;
+}
+.backStripe {
+    background-color: hsl(212, 69%, 56%);
+    position: absolute;
+    top: -50%;
+    left: 0%;
+    z-index: -1;
+    height: 600px;
+    width: 100vw;
+    transform: skewY(-15deg);
+}
