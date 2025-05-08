@@ -9,3 +9,7 @@ Devlog:
 Created the repository.
 
 Gathered the icons.
+
+Finished the html.
+
+
