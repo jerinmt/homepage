@@ -12,4 +12,4 @@ Gathered the icons.
 
 Finished the html.
 
-
+Finished styling and completed the project.
